@@ -106,7 +106,7 @@ System requirements:
 *   Linux or WSL2
 *   Foundry 
 *   Noir / `nargo` (1.0.0-beta.19) https://noir-lang.org/docs/getting_started/quick_start
-*   Barretenberg / `bb` (4.0.0-nightly.20260120) https://barretenberg.aztec.network/docsgetting_started/
+*   Barretenberg / `bb` (4.0.0-nightly.20260120) https://barretenberg.aztec.network/docs/getting_started/
 
 Build:
 
