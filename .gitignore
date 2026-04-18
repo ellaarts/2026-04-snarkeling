@@ -1,11 +1,4 @@
-broadcast/
-cache/
-lib/
-out/
-contracts/src/Verifier.sol
-contracts/lib/
-contracts/test/fixtures/
-contracts/scripts/.env
-circuits/Prover.toml
-circuits/target/
-foundry.lock
+```
+# Security audit files
+SECURITY_AUDIT.md
+```
